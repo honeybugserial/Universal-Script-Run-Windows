@@ -124,10 +124,10 @@ Start a local proxy, wait for it to come up, then confirm the exit IP — with n
 NoPrompt=true
 AfterLaunch=pause
 PostRunDelay=3
-Script=gost_launch-IPRoyal-Minneapolis-Rotate.bat
+Script=gost_Rotate.bat
 Elevated=yes
 Args=
-PostRun=curl.exe -x socks5h://127.0.0.1:11080 https://api.ipify.org
+PostRun=curl.exe -x socks5://127.0.0.1:11080 https://api.ipify.org
 ```
 
 One double-click: the proxy launches in its own window, the launcher waits 3 seconds, runs the `curl` test, prints the exit IP, and pauses so you can read it.
