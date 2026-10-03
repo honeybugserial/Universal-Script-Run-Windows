@@ -3,6 +3,8 @@
 A tiny, dependency-free Windows batch launcher. 
 
 *** I did not proof read any of this slop salad. ***
+This was intended to be lazy just to fire off various scripts and save some defaults / behaviors.
+
 
 ## Features
 
