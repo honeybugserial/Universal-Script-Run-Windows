@@ -1,4 +1,4 @@
-# Run-Script
+# Universal-Run-Script
 
 A tiny, dependency-free Windows batch launcher. 
 
