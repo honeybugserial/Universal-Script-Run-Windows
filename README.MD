@@ -6,6 +6,7 @@ A tiny, dependency-free Windows batch launcher.
 
 This was intended to be lazy just to fire off various scripts and save some defaults / behaviors.
 
+Basically just copy it into whatever dir you have code junks in, it will scan for whatever file types listed below and prompt to to choose one, then has some additional things, then keep it that way or edit the ini to have it always do the same thing if that is what you are into, I only judge in silence. 
 
 ## Features
 
