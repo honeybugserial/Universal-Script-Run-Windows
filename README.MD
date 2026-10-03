@@ -2,7 +2,7 @@
 
 A tiny, dependency-free Windows batch launcher. 
 
-***I did not proof read any of this slop salad. 
+*** I did not proof read any of this slop salad. ***
 
 ## Features
 
